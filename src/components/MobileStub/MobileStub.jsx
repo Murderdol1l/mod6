@@ -39,6 +39,7 @@ height: 56px;
 `;
 
 const StyledText = styled.p`
-  font-wight: 400px;
+  font-weight: 400;
   font-size: 16px;
+  text-align: center;
 `;
