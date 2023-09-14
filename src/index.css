@@ -15,6 +15,14 @@
 }
 
 @font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat-SemiBold'), url('./fonts/Montserrat-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'JetBrainsMonoNL';
   src: local('JetBrainsMonoNL-Regular'), url('./fonts/JetBrainsMonoNL-Regular.ttf') format('truetype');
   font-weight: 400;
