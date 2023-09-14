@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "0ee7113915a7ade01f89",
-    "url": "/mod6/static/css/main.74caf85a.chunk.css"
+    "revision": "a559c7b5dedac969121e",
+    "url": "/mod6/static/css/main.8bd21747.chunk.css"
   },
   {
-    "revision": "0ee7113915a7ade01f89",
-    "url": "/mod6/static/js/main.69661199.chunk.js"
+    "revision": "a559c7b5dedac969121e",
+    "url": "/mod6/static/js/main.6f92e9fe.chunk.js"
   },
   {
-    "revision": "c20e21d6e6cf5c7075b1",
-    "url": "/mod6/static/js/runtime~main.1f93892b.js"
+    "revision": "ac50de2f4feee457e2fe",
+    "url": "/mod6/static/js/runtime~main.45672f03.js"
   },
   {
-    "revision": "6ea2ea22c9449bf5e553",
-    "url": "/mod6/static/js/2.5258f49a.chunk.js"
+    "revision": "87b50634623887ac90f7",
+    "url": "/mod6/static/js/2.e6d1d9f9.chunk.js"
   },
   {
-    "revision": "03c2247ebef71b42a125",
-    "url": "/mod6/static/js/3.133d7e0c.chunk.js"
+    "revision": "4af07b562c0602e03473",
+    "url": "/mod6/static/js/3.a772fac8.chunk.js"
+  },
+  {
+    "revision": "b5b15350352c2a06a5f27c0c03bf50b5",
+    "url": "/mod6/static/media/cat.b5b15350.svg"
   },
   {
     "revision": "542dfa0368177543432288380e0c19bb",
@@ -44,6 +48,14 @@ self.__precacheManifest = [
     "url": "/mod6/static/media/6.b0d4f8ed.png"
   },
   {
+    "revision": "fb428a00b04d4e93deb4d7180814848b",
+    "url": "/mod6/static/media/Montserrat-SemiBold.fb428a00.ttf"
+  },
+  {
+    "revision": "0dc7ccd81c27e2fca57bebda54e11e09",
+    "url": "/mod6/static/media/JetBrainsMonoNL-Regular.0dc7ccd8.ttf"
+  },
+  {
     "revision": "b3ba703c591edd4aad57f8f4561a287b",
     "url": "/mod6/static/media/Montserrat-Medium.b3ba703c.ttf"
   },
@@ -52,11 +64,7 @@ self.__precacheManifest = [
     "url": "/mod6/static/media/Montserrat-Regular.3fe868a1.ttf"
   },
   {
-    "revision": "0dc7ccd81c27e2fca57bebda54e11e09",
-    "url": "/mod6/static/media/JetBrainsMonoNL-Regular.0dc7ccd8.ttf"
-  },
-  {
-    "revision": "1413b54ff1805eaf9b560f7487339160",
+    "revision": "d1ee584173ac5924aab160af43b2fa66",
     "url": "/mod6/index.html"
   }
 ];
